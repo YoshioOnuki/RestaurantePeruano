@@ -465,7 +465,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/Fondo4.jpg") center;
+  background: url("../img/fondoPage.jpg") center;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -773,7 +773,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/Fondo2.jpg") center center;
+  background: url("../img/FondoGoodFood.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;

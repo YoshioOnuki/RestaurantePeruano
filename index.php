@@ -268,7 +268,7 @@
                     <p>Unos de los derivados de las salsas demiglace son las ""Salsa Champiñones"", con una reducción de fondo de champiñones según el vino que se le añade, se denomina salsa champiñones al chablis, al oporto, etc. Se utiliza para carnes, aves.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/specials-1.png" alt="" class="img-fluid">
+                    <img src="assets/img/champ.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -280,7 +280,7 @@
                     <p>Las frutas pueden ser crudas, secas y rehidratadas, o pochadas y enfriadas. Las ensaladas de frutas se combinan a veces con helados y sorbetes de frutas o de vainilla.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/specials-2.png" alt="" class="img-fluid">
+                    <img src="assets/img/frutas.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -292,7 +292,7 @@
                     <p>Destacamos que años atrás, este plato se consideraba un plato para personas de clase baja, pero pasaron los años y ya empezó a ser consumido por personas de clase media limeña. Actualmente, la carapulcra se encuentra en el menú de los mejores restaurantes de Perú y es considerado uno de los platos típicos. </p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/specials-3.png" alt="" class="img-fluid">
+                    <img src="assets/img/seca.png" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -464,40 +464,40 @@
 
           <div class="col-lg-3 col-md-4">
             <div class="gallery-item">
-              <a href="assets/img/gallery/gallery-4.jpg" class="gallery-lightbox" data-gall="gallery-item">
-                <img src="assets/img/gallery/gallery-4.jpg" alt="" class="img-fluid">
+              <a href="assets/img/gallery/Local4.jpg" class="gallery-lightbox" data-gall="gallery-item">
+                <img src="assets/img/gallery/Local4.jpg" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="gallery-item">
-              <a href="assets/img/gallery/gallery-5.jpg" class="gallery-lightbox" data-gall="gallery-item">
-                <img src="assets/img/gallery/gallery-5.jpg" alt="" class="img-fluid">
+              <a href="assets/img/gallery/Local5.jpg" class="gallery-lightbox" data-gall="gallery-item">
+                <img src="assets/img/gallery/Local5.jpg" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="gallery-item">
-              <a href="assets/img/gallery/gallery-6.jpg" class="gallery-lightbox" data-gall="gallery-item">
-                <img src="assets/img/gallery/gallery-6.jpg" alt="" class="img-fluid">
+              <a href="assets/img/gallery/Local6.jpg" class="gallery-lightbox" data-gall="gallery-item">
+                <img src="assets/img/gallery/Local6.jpg" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="gallery-item">
-              <a href="assets/img/gallery/gallery-7.jpg" class="gallery-lightbox" data-gall="gallery-item">
-                <img src="assets/img/gallery/gallery-7.jpg" alt="" class="img-fluid">
+              <a href="assets/img/gallery/Local7.jpg" class="gallery-lightbox" data-gall="gallery-item">
+                <img src="assets/img/gallery/Local7.jpg" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="gallery-item">
-              <a href="assets/img/gallery/gallery-8.jpg" class="gallery-lightbox" data-gall="gallery-item">
-                <img src="assets/img/gallery/gallery-8.jpg" alt="" class="img-fluid">
+              <a href="assets/img/gallery/Local8.jpg" class="gallery-lightbox" data-gall="gallery-item">
+                <img src="assets/img/gallery/Local8.jpg" alt="" class="img-fluid">
               </a>
             </div>
           </div>
